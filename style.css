@@ -87,3 +87,10 @@ footer {
 .tovari{
     display: flex;
 }
+footer img{
+    width: 90px;
+
+    height: 50px;}
+article img {
+    border-radius: 50px;
+}
